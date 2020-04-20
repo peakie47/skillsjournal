@@ -4,5 +4,7 @@
 * Docker
   * Nextcloud
   * Portainer
+* Making and building a java app with spring.io
+* Using maven in a container
 * Git
 * Github
